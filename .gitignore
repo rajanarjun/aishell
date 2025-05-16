@@ -1,0 +1,11 @@
+# Ignore compiled binary executables
+*.o
+*.out
+*.exe
+*.bin
+*.elf
+
+# Ignore Vim swap files
+*.swp
+*.swo
+.*.sw?
