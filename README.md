@@ -1,6 +1,6 @@
 ## aishell 
 
-A experimental pseudo shell where you can ask questions, get command suggestion, explain commands, all from the shell itself, powered by a language model.
+A experimental pseudo shell where you can ask questions, get command suggestion, explain commands, all from the shell itself, powered by a language model. (for bash currently)
 
 > Think Bash, but with ChatGPT baked in.
 * for now it will not run any commands, just behave like a chatbot within a shell
